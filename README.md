@@ -24,8 +24,8 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Concept/Onderzoek | 
-|week 2 |
+|week 1 | Concept/Onderzoek | Begin maken Shader |---| --- | 
+|week 2 | Game naast shader af | Alles implementeren |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
