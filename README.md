@@ -11,13 +11,13 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+Ik heb gekozen om met unity te werken, omdat Unity van zich al een shader functie heeft waardoor het maken van een eigen shader makkelijker zal verlopen. Daarnaast voel ik me confortabel met de omgeving en wil ik mezelf erin gaan specialiseren.
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+Wat ik wil berijken met dit project:
+- Meer kennis over het maken van shaders.
+- Maak van een kleine game in korte tijd voor toekomstige projecten.
+- Aanpassen van shaders.
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
